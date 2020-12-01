@@ -11,4 +11,4 @@
 	android:paddingBottom="5dp"
 	android:singleLine="false"
 	android:textColor="#FF000000"
-	android:textSize="@dimen/font_size" />
+	android:textSize="@dimen/spinner_font_size" />
