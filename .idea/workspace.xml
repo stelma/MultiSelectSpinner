@@ -17,18 +17,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fe6335-ddf0-4e74-b364-7a7bdf45ce38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sample/src/main/java/com/androidbuts/sample/MainDataBindingActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/src/main/res/layout/activity_main_data_binding.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/src/main/res/values-de/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sample/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="HA13VF5Q" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="03GAYV23AA" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -107,7 +106,7 @@
       <recent name="E:\Projects\Others\MultiSelectSpinner\sample\src\main\res\drawable" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Shell Script.gradlew">
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -176,6 +175,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gradlew" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/gradlew" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -185,6 +192,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.gradlew" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -241,6 +253,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="393" y="201" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1599730489997" />
+    <state x="1982" y="163" key="AndroidCreateResourceFileDialog" timestamp="1606840824026">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="1982" y="163" key="AndroidCreateResourceFileDialog/0.23.1440.877/3360.-157.1680.1027/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1606840824026" />
     <state x="538" y="129" key="AndroidProcessChooserDialog" timestamp="1599820271636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -333,6 +349,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601558913831" />
+    <state x="386" y="218" width="667" height="486" key="find.popup" timestamp="1606837781444">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="386" y="218" width="667" height="486" key="find.popup/0.23.1440.877/3360.-157.1680.1027/1440.-157.1920.1057@0.23.1440.877" timestamp="1606837781444" />
     <state width="300" height="109" key="javadoc.popup.new" timestamp="1603259127794">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
